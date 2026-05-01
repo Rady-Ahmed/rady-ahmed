@@ -1,9 +1,10 @@
 # Rady Ahmed
 
 <br>🔭 I’m currently working on  <br>Technical projects and web apps<br>
-<br>👯 I’m looking to collaborate on  <br>Full-Stack and AI/ML projects<br>
+<br>👯 I’m looking to collaborate on  <br>Full-Stack Node.js projects<br>
 <br>🌱 I’m currently learning  <br>C++, Python, React, Next.js, TypeScript<br>
-<br>💬 Ask me about  <br>Web development, programming, and AI<br>
+<br>💬 Ask me about  <br>Full-Stack development with Node.js (Express), REST APIs, MongoDB, and Git/GitHub<br>
+<br>✅ Open to work  <br>Junior Full-Stack (Node.js) roles — reach me on LinkedIn<br>
 <br>⚡ Fun fact  <br>I enjoy building while learning new tech<br>
 
 ---
@@ -32,11 +33,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+### Backend (Node.js)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
