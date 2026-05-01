@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e869257a-b421-447d-b238-ada67f93fb40" alt="Rady Ahmed banner" />
+</p>
+
 # Rady Ahmed
 
 <br>🔭 I’m currently working on  <br>Technical projects and web apps<br>
